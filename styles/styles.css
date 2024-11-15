@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.moveIcon {
+    height: 70px;
+}
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+}
+.moveButton {
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+
+
